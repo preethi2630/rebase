@@ -1,7 +1,0 @@
-<<<<<<< Updated upstream
-bengaluru
-karnataka
-
-=======
-karnataka bengaluru
->>>>>>> Stashed changes
